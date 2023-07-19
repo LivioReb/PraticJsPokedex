@@ -1,3 +1,4 @@
+<img src = "https://github.com/LivioReb/PraticJsPokedex/blob/main/pokedex-main/images/pokedexprint.png"/>
 <h1>Projeto Pokedex</h1>
 
 <p>Este é o repositório do meu projeto Pokedex, onde me desafiei a aprender a manipular a Fetch API e aprimorar minhas habilidades em JavaScript. A Pokedex é uma aplicação web que exibe informações sobre diversos Pokémons, permitindo aos usuários explorar suas características, habilidades e estatísticas.</p>
